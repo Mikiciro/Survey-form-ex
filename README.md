@@ -1,2 +1,2 @@
 # Survey-form-ex
- a survey form to practice with html and css
+ a survey form from FreeCodecamp to practice with html and css
